@@ -1,0 +1,7 @@
+write to stdout
+before fork (32682)
+hi from parnet! (32682)
+bye (32682)
+before fork (32682)
+hi from child! 32683
+bye (32683)
